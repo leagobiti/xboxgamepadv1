@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.custom {
-    background: url("https://leagobiti.github.io/xboxgamepadv2/basemodv2.png");
+    background: url("https://github.com/leagobiti/xboxgamepadv1/basev1.png");
     height: 630px;
     width: 750px;
 }
@@ -16,7 +16,7 @@
 .custom .trigger {
     width: 88px;
     height: 121px;
-    background: url("https://leagobiti.github.io/xboxgamepadv2/triggermod.png");
+    background: url("https://leagobiti.github.io/xboxgamepadv1/triggerv1.png");
     opacity: 0;
 }
 
@@ -34,7 +34,7 @@
 .custom .bumper {
     width: 170px;
     height: 61px;
-    background: url("https://leagobiti.github.io/xboxgamepadv2/bumpermod.png");
+    background: url("https://leagobiti.github.io/xboxgamepadv1/bumperv1.png");
     opacity: 0;
 }
 
@@ -70,7 +70,7 @@
 
 .custom .button {
     position: absolute;
-    background: url("https://leagobiti.github.io/xboxgamepadv2/abxymod.png");
+    background: url("https://github.com/leagobiti/xboxgamepadv1/abxyv1.png");
     width: 48px;
     height: 48px;
 }
@@ -116,7 +116,7 @@
 
 .custom .stick {
     position: absolute;
-    background: url("https://leagobiti.github.io/xboxgamepadv2/stickmodv3.png");
+    background: url("https://leagobiti.github.io/xboxgamepadv1/stickv1.png");
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -146,7 +146,7 @@
 }
 
 .custom .face {
-    background: url("https://leagobiti.github.io/xboxgamepadv2/dpadmod.png");
+    background: url("https://leagobiti.github.io/xboxgamepadv1/dpadv1.png");
     position: absolute;
     opacity: 0;
 }
