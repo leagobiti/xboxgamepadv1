@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.custom {
-    background: url("https://github.com/leagobiti/xboxgamepadv1/basev1.png");
+    background: url("https://leagobiti.github.io/xboxgamepadv1/basev1.png");
     height: 630px;
     width: 750px;
 }
@@ -70,7 +70,7 @@
 
 .custom .button {
     position: absolute;
-    background: url("https://github.com/leagobiti/xboxgamepadv1/abxyv1.png");
+    background: url("https://leagobiti.github.io/xboxgamepadv1/abxyv1.png");
     width: 48px;
     height: 48px;
 }
